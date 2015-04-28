@@ -83,13 +83,35 @@ table {
 	width: 240px;
 }
 .input{
-	background-color: #121212;
 	border:none;
 	 /*border-radius: 10px;*/
 	 border: 1px solid #0c0c0c;
-	height: 40px;
 	color: #ffffff;
 	padding-left:10px; 
 	-moz-box-sizing:border-box;
 	-webkit-box-sizing:border-box;
+}
+.height-30{
+	height: 30px;
+}
+.height-40{
+	height: 40px;
+}
+.blue{
+	color: #006AE5;
+}
+.size-20{
+	font-size: 20px;
+}
+.size-25{
+	font-size: 25px;
+}
+.green{
+	color: #62A202;
+}
+.backcolor-black{
+	background-color: #1C1C1C;
+}
+.backcolor-deepblack{
+	background-color: #121212;
 }
