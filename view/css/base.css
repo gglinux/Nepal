@@ -69,7 +69,6 @@ table {
   text-decoration: none;
   border: 0;
 }
-
 .btn:hover {
   background: #3cb0fd;
   background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
@@ -114,4 +113,7 @@ table {
 }
 .backcolor-deepblack{
 	background-color: #121212;
+}
+.grey{
+	color: #666;
 }
